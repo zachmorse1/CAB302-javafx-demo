@@ -1,0 +1,30 @@
+.button {
+    -fx-background-color: #121212;
+    -fx-text-fill: white;
+    -fx-border-color: white;
+    -fx-border-radius: 5;
+}
+
+.button:hover {
+    -fx-background-color: #2e2e2e;
+}
+
+/* Set color of node with fx:id="confirmBtn" */
+#confirmBtn {
+    -fx-background-color: #23ad56;
+}
+
+.text-field {
+    -fx-background-color: #121212;
+    -fx-text-fill: white;
+    -fx-border-color: white;
+    -fx-border-radius: 5;
+}
+
+.label {
+    -fx-text-fill: white;
+}
+
+.root {
+    -fx-background-color: #121212;
+}
